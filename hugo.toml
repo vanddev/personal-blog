@@ -1,0 +1,16 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme =  'coming-soon'
+
+[params]
+    title = "Vand's Blog" 
+    description = ""
+    favicon = ""
+    message = "COMING SOON!" 
+    release = "Jun 30, 2024" 
+    background = "true" 
+    socialIcons = [
+        {name = "github", url = "https://github.com/vanalvesdev"},    
+        {name = "linkedin", url = "https://www.linkedin.com/in/vaanalvesr/?locale=en_US"},  
+    ]
