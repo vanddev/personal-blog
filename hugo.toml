@@ -12,5 +12,5 @@ theme =  'coming-soon'
     background = "true" 
     socialIcons = [
         {name = "github", url = "https://github.com/vanalvesdev"},    
-        {name = "linkedin", url = "https://www.linkedin.com/in/vaanalvesr/?locale=en_US"},  
+        {name = "linkedin", url = "https://www.linkedin.com/in/vanddev/"},  
     ]
